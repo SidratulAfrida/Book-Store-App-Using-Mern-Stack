@@ -41,9 +41,7 @@
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/25.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/26.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/10.png)
-  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/27.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/28.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/11.png)
+
  
  
   
