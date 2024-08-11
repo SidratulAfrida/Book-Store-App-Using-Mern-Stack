@@ -10,14 +10,19 @@
   ## Technologies Used
   
 - **flowbite-react:** [Flowbite React Documentation](https://flowbite-react.com/docs/getting-started/introduction) - Reference for using Flowbite React components in  project.
-- **Tailwind CSS:** [tailwindcss]( https://tailwindcss.com/docs/installation)  A utility-first CSS framework for rapid UI development.
-- **React Icons:** [flaticon](https://www.flaticon.com/)  A popular icon library for React projects.
+- **Tailwind CSS:**   [tailwindcss]( https://tailwindcss.com/docs/installation)  A utility-first CSS framework for rapid UI development.
+- **React Icons:**    [flaticon](https://www.flaticon.com/)  A popular icon library for React projects.
 
--  **Swipers.js:** [Swiper.js Documentation](https://swiperjs.com/get-started) -For creating modern touch sliders.
--  **firebase:**[Firebase Console](https://console.firebase.google.com/u/0/project/mern-book-inventory-8e6c7/overview) - Access  Firebase project for managing authentication and database settings.
+- **Swipers.js:**     [Swiper.js Documentation](https://swiperjs.com/get-started) -For creating modern touch sliders.
+- **firebase:**       [Firebase Console](https://console.firebase.google.com/u/0/project/mern-book-inventory-8e6c7/overview) - Access  Firebase project for managing authentication and database settings.
 
   ## Screenshots
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/1.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/14.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/15.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/16.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/17.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/Screenshot%202024-08-10%20212059.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/2.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/3.png)
   ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/5.png)
@@ -26,11 +31,6 @@
   ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/8.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/12.png)
   ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/13.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/14.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/15.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/16.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/17.png)
- ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/Screenshot%202024-08-10%20212059.png)
   ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/18.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/19.png)
  ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/20.png)
