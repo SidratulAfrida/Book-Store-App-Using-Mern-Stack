@@ -9,13 +9,13 @@
 - **User-Friendly Interface**: An intuitive interface for browsing and purchasing books.
   ## Technologies Used
   
-- **flowbite-react:** [Flowbite React Documentation](https://flowbite-react.com/docs/getting-started/introduction) - Reference for using Flowbite React components in your project.
+- **flowbite-react:** [Flowbite React Documentation](https://flowbite-react.com/docs/getting-started/introduction) - Reference for using Flowbite React components in  project.
 - **Tailwind CSS:** [tailwindcss]( https://tailwindcss.com/docs/installation)  A utility-first CSS framework for rapid UI development.
 - **React Icons:** [flaticon](https://www.flaticon.com/)  A popular icon library for React projects.
 
--  **Swipers.js:** [Swiper.js Documentation](https://swiperjs.com/get-started) - Learn how to use Swiper.js for creating modern touch sliders.
--  **firebase:**[Firebase Console](https://console.firebase.google.com/u/0/project/mern-book-inventory-8e6c7/overview) - Access your Firebase project for managing authentication and database settings.
-- **flowbite-react:** [Flowbite React Documentation](https://flowbite-react.com/docs/getting-started/introduction) - Reference for using Flowbite React components in your project.
+-  **Swipers.js:** [Swiper.js Documentation](https://swiperjs.com/get-started) -For creating modern touch sliders.
+-  **firebase:**[Firebase Console](https://console.firebase.google.com/u/0/project/mern-book-inventory-8e6c7/overview) - Access  Firebase project for managing authentication and database settings.
+
 
 
 
