@@ -16,6 +16,11 @@
 -  **Swipers.js:** [Swiper.js Documentation](https://swiperjs.com/get-started) -For creating modern touch sliders.
 -  **firebase:**[Firebase Console](https://console.firebase.google.com/u/0/project/mern-book-inventory-8e6c7/overview) - Access  Firebase project for managing authentication and database settings.
 
-
+  ## Screenshots
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/1.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/2.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Book-Store-App-Using-Mern-Stack/blob/master/images/3.png)
+ 
+  
 
 
